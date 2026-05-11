@@ -221,7 +221,7 @@ F1-score is emphasized due to class imbalance.
 
 After execution, the notebook generates:
 
-- Performance metrics (Accuracy, Precision, Recall, F1, AUROC)  
+- Performance metrics (Accuracy, Precision, Recall, F1)  
 - Comparison between flat and graph-based models  
 - Visualization plots  
 - Evaluation results on:
