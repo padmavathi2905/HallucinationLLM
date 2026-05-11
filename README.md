@@ -20,7 +20,7 @@ The system is trained on the **FEVER dataset** and evaluated on both FEVER and *
 ├── AI_Project_Code.ipynb   # Main implementation (ENTRY POINT)
 ├── README.md               # Documentation
 ├── requirements.txt        # Dependencies
-└── outputs/                # (Optional) results and plots
+└── outputs/                # Results and plots
 ```
 
 ---
